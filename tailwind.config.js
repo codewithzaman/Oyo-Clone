@@ -7,7 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-      
+      backgroundImage:{
+        'login-backgound':'url("/background.avif")'
+      }
     },
   },
   plugins: [],
