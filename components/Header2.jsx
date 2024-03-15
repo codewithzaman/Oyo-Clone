@@ -3,16 +3,16 @@ import React from 'react'
 const Header2 = () => {
     const List = [
         {
-            name:"Banglore"
+            name:"Lahore"
         },
         {
-            name:"Culcuta "
+            name:"Karachi"
         },
         {
-            name:"Mumbai"
+            name:"Multan"
         },
         {
-            name:"Dehli"
+            name:"Islambad"
         },
         {
             name:"Hyderabad"
