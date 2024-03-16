@@ -19,7 +19,7 @@ const Login = () => {
                 <p className='text-2xl '>Sign up with your phone number and get exclusive access to discounts and savings on Resto stays and with your many travel partners</p>
             </div>
             <div className='w-10/12 pb-40 ml-20  bg-white'>
-                <p className='h-10 flex items-center px-10 bg-gradient-to-r from-red-300 to-red-600 text-lg font-bold text-white '>Sign Up and Get 500 Rs oyo money</p>
+                <p className='h-10 flex items-center px-10 bg-gradient-to-r from-red-300 to-red-600 text-lg font-bold text-white '>Sign Up and Get 500 Rs resto money</p>
                 <div className='px-10'>
                     <h3 className='text-5xl font-bold my-5'>Login/SignUp</h3>
                     <p className='font-bold text-lg mb-1'>Please enter your Email to continue</p>
