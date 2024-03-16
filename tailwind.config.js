@@ -9,6 +9,9 @@ module.exports = {
     extend: {
       backgroundImage:{
         'login-backgound':'url("/background.avif")'
+      },
+      height:{
+        'large-box':"325px"
       }
     },
   },
