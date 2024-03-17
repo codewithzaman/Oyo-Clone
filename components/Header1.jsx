@@ -2,6 +2,7 @@ import Image from 'next/image'
 import React from 'react'
 import Block from './Block'
 import Link from 'next/link'
+import Cookies from 'js-cookie'
 
 const Header1 = () => {
   return (
